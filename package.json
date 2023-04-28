@@ -1,0 +1,23 @@
+{
+  "name": "test_csv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nbagr/test_csv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nbagr/test_csv/issues"
+  },
+  "homepage": "https://github.com/nbagr/test_csv#readme",
+  "dependencies": {
+    "jest": "^29.5.0",
+    "lodash": "^4.17.21"
+  }
+}
